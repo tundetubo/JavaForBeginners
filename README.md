@@ -1,4 +1,4 @@
-<b>Data in Java</>
+<b>Data in Java</b>
 
 <ul style="list-style-type: none; margin: 0; padding: 0; ">
   <li style="display: inline;"><a href="https://tundetubo.github.io"><img src="home.png" alt="home-page" style="width:40px; height:40px;"/></a></li>
