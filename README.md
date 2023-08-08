@@ -17,12 +17,29 @@
   
   There are eight primitive data types in Java namely: byte, short, int, char, long, float, double and boolean.
   
+  byte, short, int, long, float and double represent number values of various formats.
+
+  char represent a  letter  value like A.
+
+  boolean represent only two possible values of true or false.
+
+  Each of these data types can hold deffering values. for instance 
+  
   To declare a primitive data of type int: 
   
              int number; 
   
+
+  ## NonPrimitive data types ##
   
-   
+  Non primitive data types are String , Arrays and Classes.
+
+  An example of a String is a name such as   ''John''  . Please note that String starts with a capital S.
+  String is any group of letters written together to form a word.
+
+  Array is a collection of values of any data type.
+  class is a specification from which an object is created.
+     
 <div class="footer">
   
   <hr style="width:200; background-color: blue;">
