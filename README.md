@@ -38,6 +38,7 @@
   String is any group of letters written together to form a word.
 
   Array is a collection of values of any data type.
+  
   class is a specification from which an object is created.
      
 <div class="footer">
