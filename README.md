@@ -11,11 +11,11 @@
 
 <hr style="width:200; background-color: blue;">
   Data is the information we work with. This could be a character such as letter A, a String such as name of a person, a number such as 4 or more complex types such as collection of objects.
-  Data types in Java are classsified as primitive or nonprimitive types.
+  Data types in Java are classsified as primitive or nonprimitive.
   
-  <b>Primitive data types</b>
-  
-  
+  ##Primitive data types##
+  There are eight primitive data types in Java namely: byte, short, int, char, long, float, double and boolean. 
+   
 <div class="footer">
   
   <hr style="width:200; background-color: blue;">
