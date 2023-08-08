@@ -30,7 +30,7 @@
              int number; 
   
 
-  ## NonPrimitive data types ##
+## NonPrimitive data types ##
   
   Non primitive data types are String , Arrays and Classes.
 
