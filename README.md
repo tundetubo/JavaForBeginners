@@ -34,7 +34,7 @@
   
   Non primitive data types are String , Arrays and Classes.
 
-  An example of a String is a name such as   ''John''  . Please note that String starts with a capital S.
+  An example of a String is a name such as   ''John''  . Please note that String as a data type is written with a capital S.
   String is any group of letters written together to form a word.
 
   Array is a collection of values of any data type.
