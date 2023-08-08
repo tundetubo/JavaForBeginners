@@ -1,4 +1,4 @@
-<b>Data in Java</b>
+#Data in Java#
 
 <ul style="list-style-type: none; margin: 0; padding: 0; ">
   <li style="display: inline;"><a href="https://tundetubo.github.io"><img src="home.png" alt="home-page" style="width:40px; height:40px;"/></a></li>
@@ -12,7 +12,9 @@
 <hr style="width:200; background-color: blue;">
   Data is the information we work with. This could be a character such as letter A, a String such as name of a person, a number such as 4 or more complex types such as collection of objects.
   Data types in Java are classsified as primitive or nonprimitive.
-  ##Primitive data types##
+  
+##Primitive data types##
+  
   There are eight primitive data types in Java namely: byte, short, int, char, long, float, double and boolean. 
    
 <div class="footer">
