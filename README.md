@@ -23,11 +23,12 @@
 
   boolean represent only two possible values of true or false.
 
-  Each of these data types can hold deffering values. for instance 
+  Each of these data types can hold deffering values.
   
-  To declare a primitive data of type int: 
+  To declare a primitive data  type use the syntax containing the data type name, followed by the name you have given the data and finally a semicolon as shown below: 
+            
   
-             int number; 
+             byte number1;   short number2;   int number3;  char alphabet;   long number4;  float number5;   double number6;  boolean yesOrNo; 
   
 
 ## NonPrimitive data types ##
@@ -35,12 +36,32 @@
   Non primitive data types are String , Arrays and Classes.
 
   An example of a String is a name such as   ''John''  . Please note that String as a data type is written with a capital S.
-  String is any group of letters written together to form a word.
+  String is any group of letters written together to form a word. To represent a String in your code first declare it as shown below:
+
+        String name;
+
+  
 
   Array is a collection of values of any data type.
   
   class is a specification from which an object is created.
-     
+
+## Primitive data types and allowed values ##
+
+   Primitive data types can hold values assigned to them, but the range of values vary from one to the other.
+
+|  Data type    |     Size      | value                                                                                                        |
+| ------------- |:-------------:|:-------------------------------------------------------------------------------------------------------------|
+|     byte      |     1byte     | Stores whole numbers from -128 to 127                                                                        |
+|    short      |     2byte     | Stores whole numbers from -32,768 to 32,767                                                                  |
+|     int       |     4bytes    | Stores whole numbers from -2,147,483,648 to 2,147,483,647                                                    |
+|     long      |    8bytes     | Stores whole numbers -9,223,372,036,854,775,808 to 9,223,372,036,854,775,807                                 |    
+|     float     |    4bytes     | Stores fractional numbers. Sufficient for storing 6 to 7 decimal digits                                      |
+|     double    |    8bytes     | Stores fractional numbers. Sufficient for storing 15 decimal digits                                          |
+| boolean       |    2bytes     | Stores true or false valuesStores                                                                            |
+| char          |    1byte      | Stores a single character/letter or ASCII values                                                             |
+
+
 <div class="footer">
   
   <hr style="width:200; background-color: blue;">
