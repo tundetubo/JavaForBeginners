@@ -73,7 +73,7 @@ Run the installer and follow the instructions to stall the Java development envi
 <p>Install an IDE: The Integrated Development Environment has a user interface and tools that makes working with codes easier. </p>
 <p>Install Eclipse IDE at https://www.eclipse.org/downloads/packages/release/2022-12/r/eclipse-ide-java-developers</p>
 </details>
-In the next page we will explore data types <a href=""><img src="https://icons8.com/icon/TWk3CeZpcjHu/walking" /></a>
+In the next page we will explore data types <a href="https://tundetubo.github.io/JavaForBeginners/working_with_data_types"><img src="walking.gif"  style="width: 35px; height: 35px;"/></a>
          
 <div class="footer">
   
