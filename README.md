@@ -61,7 +61,19 @@
 | boolean       |    2bytes     | Stores true or false valuesStores                                                                            |
 | char          |    1byte      | Stores a single character/letter or ASCII values                                                             |
 
-
+## Working with Data types ##
+The working environment for Java needs to be installed before working with data types. click on the arrow below for instructions.
+<details>
+      <summary>Java JDK 17.0.8 installation</summary>
+      <p> The Java JDK includes tools useful for developing and testing programs written in the Java programming language.
+There are many versions of Java. The latest at the time of writing is Java 20, but we are going to use 17 which is a Long time support version.
+To install Java 17.0.8, go to https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html and select
+and download the Windows x64 Installer.
+Run the installer and follow the instructions to stall the Java development environment. </p>
+<p>Install an IDE: The Integrated Development Environment has a user interface and tools that makes working with codes easier. </p>
+<p>Install Eclipse IDE at https://www.eclipse.org/downloads/packages/release/2022-12/r/eclipse-ide-java-developers</p>
+</details>
+         
 <div class="footer">
   
   <hr style="width:200; background-color: blue;">
